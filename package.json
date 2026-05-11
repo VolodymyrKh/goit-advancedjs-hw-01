@@ -18,6 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.2.0",
-    "vite-plugin-html-inject": "^1.1.2"
+    "vite-plugin-html-inject": "^1.1.2",
+    "modern-normalize": "^3.0.1",
+    "simplelightbox": "^2.14.3"
   }
 }
